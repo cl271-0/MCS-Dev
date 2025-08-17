@@ -1,4 +1,6 @@
 # MCS-Dev
+[![爱发电](https://img.shields.io/badge/赞助-爱发电-403B98?style=flat&logoColor=white)](https://afdian.com/a/cl271)
+
 作者测试自己的程序 注意！只是测试自己的编程水平用的 没有什么用处（也许会有）
 
 ## 正式发行版
