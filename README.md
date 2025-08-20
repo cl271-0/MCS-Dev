@@ -7,3 +7,6 @@
 
 ## 正式发行版
 测试版和正式发行版在[MCS](https://github.com/cl271-0/MCS)仓库里 也许哪一天Dev测试完了会开始上传到MCS呢！
+
+## ⚠️注意！！！
+若要运行该系列软件，请安装[.NET 6 运行库](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)
